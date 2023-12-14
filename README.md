@@ -12,7 +12,7 @@
 
 🌱 I’m currently learning **DevSecOps & Cloud DevOps**<br><br>
 👯 I’m looking to collaborate on **DevOps | WordPress Projects**<br><br>
-👨‍💻 All of my projects are available at **[Github.COM/PASINDULJAY](https://github.com/pasinduljay)** <br><br>
+👨‍💻 All of my projects are available at **[GITHUB.COM/PASINDULJAY](https://github.com/pasinduljay)** <br><br>
 💬 Ask me about **Technical Guides | Repairing | Bug Hunting**<br><br>
 📫 You can contact me at **[PASINDULJAY@GMAIL.COM](mailto:pasinduljay@gmail.com)** <br><br>
 📄 See my portfolio at **[PASINDULJAY.ME](http://pasinduljay.me)**
