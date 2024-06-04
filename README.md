@@ -1,4 +1,4 @@
-<img align="center" alt="Banner"  src="Resources/banner.webp">
+<img align="center" alt="Banner"  src="Resources/banner.png">
 
 <br><br>
 
