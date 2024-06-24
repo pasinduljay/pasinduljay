@@ -4,18 +4,18 @@
 
 <!-- Header Section -->
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&color=36BCF7FF&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pasindu+L+Jayasinghe!;" /></h1>
-<h3 align="center"><font face="Arial"><a href="https://pasinduljay.me" target="_blank" rel="noreferrer">Visit</a> for a passionate DevOps Engineer from SriLanka, working on Cloud and DevOps for 1 years now. Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://pasinduljay.engineer" target="_blank" rel="noreferrer">Visit</a> for a passionate DevOps Engineer from SriLanka, working on Cloud and DevOps for 1 years now. Feel free to reach out for any Freelance Projects.</font></h3>
 
 #
 <img align="right" alt="Coding" width="400" src="Resources/user1.gif">
 <br>
 
 🌱 I’m currently learning **DevSecOps & Cloud DevOps**<br><br>
-👯 I’m looking to collaborate on **DevOps | WordPress Projects**<br><br>
+👯 I’m looking to collaborate on **DevOps | Cloud Projects**<br><br>
 👨‍💻 All of my projects are available at **[GITHUB.COM/PASINDULJAY](https://github.com/pasinduljay)** <br><br>
 💬 Ask me about **Technical Guides | Repairing | Bug Hunting**<br><br>
-📫 You can contact me at **[PASINDULJAY@GMAIL.COM](mailto:pasinduljay@gmail.com)** <br><br>
-📄 See my portfolio at **[PASINDULJAY.ME](http://pasinduljay.me)**
+📫 You can contact me at **[CONTACT@PASINDULJAY.ENGINEER](mailto:contact@pasinduljay.engineer)** <br><br>
+📄 See my portfolio at **[PASINDULJAY.ENGINEER](https://pasinduljay.engineer)**
 <br><br>
 
 # 🤝 Connect With Me:
